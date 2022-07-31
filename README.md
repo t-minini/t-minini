@@ -5,12 +5,6 @@
 <div align="center" >
 <img alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif">
 </div>
-
-<p align="center">
-  <a href="https://github.com/t-minini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=t-minini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-minini&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
   
   <h3 align="center">Connect with me on</h3>
   <div align="center">
@@ -30,4 +24,11 @@
   <img align="center" alt="mongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> 
   <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> </a>
 </div> 
+
+
+<p align="center">
+  <a href="https://github.com/t-minini">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=t-minini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-minini&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
