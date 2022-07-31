@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-minini&label=Profile%20views&color=0e75b6&style=flat" alt="t-minini" /> </p>  
-<h1 align="center">Hi 👋, I'm Tulio Minini!</h1>  
+<h1 align="center">Hey, I'm Tulio Minini!👨🏻‍💻</h1>  
 <h3 align="center">An Interior Designer working on a career change <br/>to Web / Software Development!</h3>  
 
 <div align="center" >
@@ -28,5 +28,6 @@
   <img align="center" alt="tailwindcss icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="nodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="mongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"> 
+  <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> </a>
 </div> 
 
