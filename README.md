@@ -5,7 +5,7 @@
 <h3 align="center">An Interior Designer working on a career change <br/>to Web / Software Development and UX/UI Design!</h3> 
 
 <div align="center" >
-<img alt="Coding" width="150rem" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif">
+<img alt="Coding" width="100rem" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif">
 </div>
 
 ## You can Contact or Connect with me here ✉️</h3> 
