@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-minini&label=Profile%20views&color=0e75b6&style=flat" alt="t-minini" /> </p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=t-minini&label=Profile%20views&color=0e75b6&style=flat" alt="t-minini" /> </p>  
 
 <h1 align="center">Hey, I'm Tulio Minini 👨🏻‍💻</h1>
 
@@ -52,11 +52,13 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)
 
+![Snake animation](https://github.com/t-minini/t-minini/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <a href="https://github.com/t-minini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=t-minini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-minini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ![Snake animation](https://github.com/t-minini/t-minini/blob/output/github-contribution-grid-snake.svg)
+  
 
