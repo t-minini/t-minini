@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=t-minini&label=Profile%20views&color=0e75b6&style=flat" alt="t-minini" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-minini&label=Profile%20views&color=0e75b6&style=flat" alt="t-minini" /> </p>  
 
 <h1 align="center">Hey, I'm Tulio Minini 👨🏻‍💻</h1>
 
