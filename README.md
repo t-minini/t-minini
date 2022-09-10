@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey, I'm Tulio Minini 👨🏻‍💻</h1>
 
-<h3 align="center">An Interior Designer working on a career change <br/>to Web / Software Development and UX/UI Design!</h3> 
+<h3 align="center">An Interior Designer working on a career change <br/>to Web / Software Development!</h3> 
 
 <div align="center" >
 <img alt="Coding" width="100rem" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif">
