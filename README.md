@@ -2,15 +2,13 @@
 
 <h1 align="center">Hey, I'm Tulio Minini 👨🏻‍💻</h1>
 
-<h3 align="center">An Interior Designer working on a career change <br/>to Web / Software Development!</h3> 
+<h3 align="center">I am a former interior designer who discovered his passion for Web Development.</br>I have a small vinyl collection, which is growing. I love cats, travelling, attending concerts, and being surrounded by kind and good-hearted people who want to make the world a better place. 💕</h3> 
 
 <div align="center" >
 <img alt="Coding" width="100rem" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif">
 </div>
 
-## Here you can Contact or Connect with me ✉️
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-minini/)
-<a href = "mailto:tulio.mminini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 ## Front-end Skills / Tools 💄
 
@@ -43,12 +41,17 @@
 
 ## My Workspace Specs 💻
 ![MacBook](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
+
 ![Dell](https://img.shields.io/badge/Windows-DELL_Precision_5550-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Groups 💭
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+## Here you can Contact or Connect with me ✉️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-minini/)
+<a href = "mailto:tulio.mminini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)
 
