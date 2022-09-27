@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey, I'm Tulio Minini 👨🏻‍💻</h1>
 
-<h3 align="center">I am a former interior designer who discovered his passion for Web Development.</br>I have a small vinyl collection, which is growing. I love cats, travelling, attending concerts, and being surrounded by kind and good-hearted people who want to make the world a better place. 💕</h3> 
+<h3 align="center">I am a former interior designer who discovered his passion for Web Development.</br>I have a small vinyl collection, which keeps growing, love cats, travelling, attending concerts, and being surrounded by kind and good-hearted people who want to make the world a better place. 💕</h3> 
 
 <div align="center" >
 <img alt="Coding" width="100rem" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif">
