@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-minini&label=Profile%20views&color=0e75b6&style=flat" alt="t-minini" /> </p>  
 
@@ -10,7 +10,8 @@
 <img alt="Coding" width="100rem" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif">
 </div>
 
-
+## Badges
+<a href="https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini%40gmail.com"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">May 2024 Hackathon: 1st Place</p>
 
 ## Using Now
 
