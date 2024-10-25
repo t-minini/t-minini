@@ -11,21 +11,10 @@
 </div>
 
 ## Badges
-![Badge: May 2024 Hackathon: 1st Place]([https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A/image](https://media.eu.badgr.com/uploads/badges/assertion-y4Z3qoKER2aRtZ_V7fAF3A.png?versionId=C56nfaD897VJRGB.AGwYvJlQFSwdp5SZ))
-
-<img alt="Coding" width="100rem" src="[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif](https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A/image](https://media.eu.badgr.com/uploads/badges/assertion-y4Z3qoKER2aRtZ_V7fAF3A.png?versionId=C56nfaD897VJRGB.AGwYvJlQFSwdp5SZ)">
-
 [![May 2024 Hackathon: 1st Place](badge.png)](https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini%40gmail.com)
-
-
-[![May 2024 Hackathon: 1st Place](/badge.png)
-
 **May 2024 Hackathon: 1st Place**  
 *Awarded: 28 May 2024*  
 *Awarded To: Tulio Minini*
-
-<img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">May 2024 Hackathon: 1st Place</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Tulio Minini</span></p><script async="async" src="https://eu.badgr.com/assets/widgets.bundle.js"></script>
-
 
 ## Using Now
 
