@@ -11,11 +11,12 @@
 </div>
 
 ## Badges
-[![May 2024 Hackathon: 1st Place](badge.png)](https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini%40gmail.com)
-
-**May 2024 Hackathon: 1st Place**  
-*Awarded: 28 May 2024*  
-*Awarded To: Tulio Minini*
+<a href="https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini%40gmail.com">
+  <img src="badge.png" alt="May 2024 Hackathon: 1st Place" width="200" height="auto">
+</a>
+<strong>May 2024 Hackathon: 1st Place</strong><br>
+<em>Awarded: 28 May 2024</em><br>
+<em>Awarded To: Tulio Minini</em>
 
 
 ## Using Now
