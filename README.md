@@ -15,6 +15,9 @@
 
 <img alt="Coding" width="100rem" src="[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif](https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A/image](https://media.eu.badgr.com/uploads/badges/assertion-y4Z3qoKER2aRtZ_V7fAF3A.png?versionId=C56nfaD897VJRGB.AGwYvJlQFSwdp5SZ)">
 
+[![May 2024 Hackathon: 1st Place](badge.png)](https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini%40gmail.com)
+
+
 [![May 2024 Hackathon: 1st Place](/badge.png)
 
 **May 2024 Hackathon: 1st Place**  
