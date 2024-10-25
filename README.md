@@ -11,7 +11,7 @@
 </div>
 
 ## Badges
-<a href="https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini%40gmail.com"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">May 2024 Hackathon: 1st Place</p>
+<iframe src="https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=tulio.mminini%40gmail.com" title="Badge: May 2024 Hackathon: 1st Place" style="width: 330px; height: 191px; border: 0px;"></iframe>
 
 ## Using Now
 
