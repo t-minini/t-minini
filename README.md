@@ -11,7 +11,9 @@
 </div>
 
 ## Badges
+<figure class="video_container">
 <iframe src="https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=tulio.mminini%40gmail.com" title="Badge: May 2024 Hackathon: 1st Place" style="width: 330px; height: 191px; border: 0px;"></iframe>
+</figure>
 
 ## Using Now
 
