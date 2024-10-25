@@ -11,7 +11,7 @@
 </div>
 
 ## Badges
-![Badge: May 2024 Hackathon: 1st Place]([https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A/image](https://media.eu.badgr.com/uploads/badges/assertion-y4Z3qoKER2aRtZ_V7fAF3A.png?versionId=C56nfaD897VJRGB.AGwYvJlQFSwdp5SZ)
+![Badge: May 2024 Hackathon: 1st Place]([https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A/image](https://media.eu.badgr.com/uploads/badges/assertion-y4Z3qoKER2aRtZ_V7fAF3A.png?versionId=C56nfaD897VJRGB.AGwYvJlQFSwdp5SZ))
 
 [![May 2024 Hackathon: 1st Place](https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A/image)](https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini%40gmail.com)
 
