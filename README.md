@@ -17,7 +17,7 @@
   </a>
   
   <div>
-    <strong>May 2024 Hackathon: 1st Place</strong> <a href="https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini%40gmail.com](https://eu.badgr.com/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini@gmail.com">Link</a><br>
+    <strong>May 2024 Hackathon: 1st Place</strong> <a href="[https://api.eu.badgr.io/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini%40gmail.com](https://eu.badgr.com/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A?identity__email=tulio.mminini@gmail.com](https://eu.badgr.com/public/assertions/y4Z3qoKER2aRtZ_V7fAF3A)">Link</a><br>
     <em>Awarded: 28 May 2024</em><br>
     <em>Awarded To: Tulio Minini</em>
   </div>
